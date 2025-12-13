@@ -32,7 +32,6 @@ Explore the dashboards below! Each project folder contains the associated Power 
 - **Sentiment Distribution:** Visual breakdown of positive, negative, and neutral reviews
 - **Score Trends:** User rating patterns over time
 - **Word Cloud:** Most frequently mentioned terms in reviews
-- **Correlation Analysis:** Relationship between sentiment scores and user ratings
 
 #### 🔧 Data Processing Pipeline:
 
