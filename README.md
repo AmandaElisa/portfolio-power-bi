@@ -26,6 +26,8 @@ Explore the dashboards below! Each project folder contains the associated Power 
 
 **Description:** Comprehensive analysis of user reviews for the game **Animal Crossing: New Horizons**, featuring sentiment analysis, word clouds, and review trends visualization.
 
+![Animal Crossing Dashboard Demo](./DashboardAnimalCrossingReviews/assets/AnimalCrossingDashboard.gif)
+
 #### 📊 Dashboard Features:
 - **Sentiment Distribution:** Visual breakdown of positive, negative, and neutral reviews
 - **Score Trends:** User rating patterns over time
