@@ -65,6 +65,9 @@ This project demonstrates advanced data engineering and NLP skills:
 - `nlp_text_cleaner.py` - Text preprocessing and lemmatization
 - `sentiment_analyzer_hybrid.py` - Hybrid sentiment classification
 
+#### 🎨 Dashboard Design:
+- **Figma Background:** [View dashboard background design](https://www.figma.com/community/file/1581510238549361507)
+
 **Technologies:** Python (pandas, spaCy, NLTK, requests), Power BI, DAX
 
 - **Details** | **Link** | [Project Folder](./DashboardAnimalCrossingReviews)
