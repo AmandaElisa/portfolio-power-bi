@@ -108,16 +108,23 @@ This project demonstrates advanced data engineering and NLP skills:
 ```
 portfolio-power-bi/
 ├── DashboardPeopleAnalytics/
-│   ├── dashboard.pbix
-│   └── dataset/
+│   ├── assets/
+│   ├── dataset/
+│   └── theme/
 ├── DashboardAnimalCrossingReviews/
-│   ├── dashboard.pbix (coming soon)
+│   ├── Dashboard - Animal Crossing Reviews Analytics.pbix
+│   ├── assets/
+│   │   ├── AnimalCrossingDashboard.gif
+│   │   └── [dashboard screenshots]
 │   ├── dataset/
 │   │   ├── scraper_complete.py
 │   │   ├── nlp_text_cleaner.py
 │   │   ├── sentiment_analyzer_hybrid.py
+│   │   ├── animal_crossing_reviews_full.csv
+│   │   ├── animal_crossing_reviews_processed.csv
 │   │   └── animal_crossing_reviews_with_sentiment.csv
-│   └── README.md
+│   └── theme/
+│       └── Tema.json
 └── README.md
 ```
 
