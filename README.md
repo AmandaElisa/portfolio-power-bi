@@ -133,9 +133,9 @@ portfolio-power-bi/
 
 I'm always looking to connect with other data enthusiasts and professionals!
 
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
-- **Portfolio:** [Your Portfolio Website]
+- **LinkedIn:** [Amanda Elisa](https://www.linkedin.com/in/amandaelisa/)
+- **Email:** amandaeocarvalho@gmail.com
+- **Figma:** [figma.com/@amandaelisa](https://figma.com/@amandaelisa)
 
 ---
 
